@@ -1,17 +1,14 @@
 # Chrome-Dinossaur-in-C
 Little project i've made with my group during the first semester of my university. The game was made so we could learn about imperative programming
-
-Team of Computer Engineer on this project:
--Eric Albuquerque
--João Gabriel Torreiro Gila
--Matheus Souza de Oliveira
--Samuel Lima Maranhão
-
-Equipe de Engenharia da Computação do projeto:
--Eric Albuquerque
--João Gabriel Torreiro Gila
--Matheus Souza de Oliveira
--Samuel Lima Maranhão
-
-Samuel's Github
+<br>Team of Computer Engineer on this project:
+<br>Eric Albuquerque
+<br>João Gabriel Torreiro Gila
+<br>Matheus Souza de Oliveira
+<br>Samuel Lima Maranhão
+<br>Equipe de Engenharia da Computação do projeto:
+<br>Eric Albuquerque
+<br>João Gabriel Torreiro Gila
+<br>Matheus Souza de Oliveira
+<br>Samuel Lima Maranhão
+<br>Samuel's Github
 <a href="about:blank">Samuel's Github</a>

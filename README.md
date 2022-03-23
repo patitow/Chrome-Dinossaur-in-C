@@ -14,4 +14,6 @@ Little project i've made with my group during the first semester of my universit
 <br>-Samuel Lima Maranhão
 
 <a href="https://www.linkedin.com/in/patitow/">My LinkedIn page</a> <br>
+
 <a href="https://www.linkedin.com/in/samuelmaranhao/">Samuel's LinkedIn</a>
+<a href="https://github.com/Samuk4lima">Samuel's GitHub</a>

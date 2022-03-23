@@ -13,5 +13,4 @@ Little project i've made with my group during the first semester of my universit
 <br>-Matheus Souza de Oliveira
 <br>-Samuel Lima Maranhão
 
-<br>Samuel's Github
-<a href="about:blank">Samuel's Github</a>
+<a href="linkedin.com/in/samuelmaranhao/">Samuel's LinkedIn</a>

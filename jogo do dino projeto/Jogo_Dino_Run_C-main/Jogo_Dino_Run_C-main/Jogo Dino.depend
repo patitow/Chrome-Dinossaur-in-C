@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605131490 source:e:\downloads\jogo_dino_run_c-main\jogo_dino_run_c-main\localdasfuncoes.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1605187966 source:e:\downloads\jogo_dino_run_c-main\jogo_dino_run_c-main\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"Funcoes.h"
+
+1605130788 e:\downloads\jogo_dino_run_c-main\jogo_dino_run_c-main\funcoes.h
+

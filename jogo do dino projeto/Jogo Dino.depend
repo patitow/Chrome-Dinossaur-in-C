@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1603824406 source:c:\users\usuario\onedrive\desktop\jogo dino\localdasfuncoes.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1603824374 source:c:\users\usuario\onedrive\desktop\jogo dino\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"Funcoes.h"
+
+1603824406 c:\users\usuario\onedrive\desktop\jogo dino\funcoes.h
+
+1603837213 source:e:\downloads\jogo do dino projeto\localdasfuncoes.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1603990217 source:e:\downloads\jogo do dino projeto\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"Funcoes.h"
+
+1603837212 e:\downloads\jogo do dino projeto\funcoes.h
+

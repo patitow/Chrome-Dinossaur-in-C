@@ -13,4 +13,4 @@ Little project i've made with my group during the first semester of my universit
 <br>-Matheus Souza de Oliveira
 <br>-Samuel Lima Maranhão
 
-<a href="linkedin.com/in/samuelmaranhao/">Samuel's LinkedIn</a>
+<a href="https://www.linkedin.com/in/samuelmaranhao/">Samuel's LinkedIn</a>
